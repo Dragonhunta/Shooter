@@ -14,4 +14,4 @@ Images: ground.jpg, screen.jpg from ChatGPT
         wombat.png, spider.png, button-blue.png, button-yellow.png, button-red.png,           rock.png from the standard Greenfoot image library
         all other images by myself
 
-DATE: 20.03.2024
+LAST EDIT: 04.09.2024
