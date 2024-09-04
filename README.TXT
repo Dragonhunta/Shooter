@@ -7,6 +7,11 @@ Controls: W/UP: move forward
           SPACE: shoot
 
 HOW TO START THIS PROJECT: Install Greenfoot and open the project with it by choosing the whole folder it's stored in
+
+
 GREENFOOT IDE: https://www.greenfoot.org/door
+Images: ground.jpg, screen.jpg from ChatGPT
+        wombat.png, spider.png, button-blue.png, button-yellow.png, button-red.png,           rock.png from the standard Greenfoot image library
+        all other images by myself
 
 DATE: 20.03.2024
