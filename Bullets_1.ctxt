@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bullets_1
+comment0.text=\r\n\ Diese\ Klasse\ gibt\ es,\ weil\ die\ Geschosse\ vom\ Spieler\ bzw.\ Gegner\ anders\ behandelt\r\n\ werden\ sollen.\ Wenn\ der\ Spieler\ die\ selben\ Bullets\ wie\ der\ Gegner\ schie\u00DFen\ \r\n\ w\u00FCrde,\ w\u00E4re\ es\ nicht\ so\ einfach\ m\u00F6glich\ festzustellen,\ von\ wem\ das\ Geschoss\ \r\n\ jetzt\ eigentlich\ kommt\ und\ wie\ die\ anderen\ Objekte\ damit\ interagieren\ m\u00FCssen.\r\n\ (Z.\ B.\ damit\ der\ Spieler\ nicht\ direkt\ von\ seinen\ eigenen\ Bullets\ getroffen\r\n\ wird,\ wenn\ sie\ gespawnt\ weden.)\r\n
+comment1.params=direction
+comment1.target=Bullets_1(int)
+comment1.text=\ Constructor\ zur\ \u00DCbergabe\ einer\ bestimmten\ Richtung\ bei\ Erstellung\ des\r\n\ Objekts\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
