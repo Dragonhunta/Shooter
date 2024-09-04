@@ -11,7 +11,7 @@ HOW TO START THIS PROJECT: Install Greenfoot and open the project with it by cho
 
 GREENFOOT IDE: https://www.greenfoot.org/door
 Images: ground.jpg, screen.jpg from ChatGPT
-        wombat.png, spider.png, button-blue.png, button-yellow.png, button-red.png,           rock.png from the standard Greenfoot image library
-        all other images by myself
+        wombat.png, spider.png, button-blue.png, button-yellow.png, button-red.png, rock.png from the standard Greenfoot image library
+        other images by myself
 
 LAST EDIT: 04.09.2024
